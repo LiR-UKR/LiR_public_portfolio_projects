@@ -56,11 +56,11 @@ to comply with environmental and sustainability requirements.
 
 - **[Python](https://github.com/LiR-UKR/Python.git)** – A analytics tool (Python,PANDAS, Flask, PostgreSQL) various analytics
 - **[Databases](https://github.com/LiR-UKR/Databases.git)** - Databases
-- **[Containers]()** - Docker, Docker Compose 
-- **[CL/CI]()** - Continuous Deployment
+- **[Containers](https://github.com/LiR-UKR/Containers.git)** - Docker, Docker Compose 
+- **[CL/CI](https://github.com/LiR-UKR/CL_CI.git)** - Continuous Deployment/ CI/CD pipelines / automation of testing and assembly
 - **[JupyterNotebook](https://github.com/LiR-UKR/JupyterNotebook.git)** - JupyterNotebook
 
-- **[ORTA,NOMADIC,INSY, IRBIS]()** – Desktop application (OVAL, VBA, SQL, C#) for automation of various processes in the enterprise and generate automated reports.  
+- **[ORTA,NOMADIC,INSY, IRBIS](https://github.com/LiR-UKR/ORTA.git)** – Desktop application (OVAL, VBA, SQL, C#) for automation of various processes in the enterprise and generate automated reports.  
 - **[MicroCompany](https://github.com/LiR-UKR/MicroCompany.git)** – The visit site with Forum-Portal is currently not supported. -> **[MC](https://www.microcompany.com.ua/MicroCompany.html)** 
 
 ---
