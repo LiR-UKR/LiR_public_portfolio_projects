@@ -56,7 +56,7 @@ to comply with environmental and sustainability requirements.
 
 - **App** – A analytics tool (Python,PANDAS, Flask, PostgreSQL) various analytics
 - **ORTA,NOMADIC,INSY, IRBIS** – Desktop application (OVAL, VBA, SQL, C#) for automation of various processes in the enterprise and generate automated reports.  
-- **www.MicroCompany.com.ua ** – The visit site with Forum-Portal is currently not supported.  
+- **https://www.microcompany.com.ua/MicroCompany.html** – The visit site with Forum-Portal is currently not supported.  
 
 ---
 
