@@ -54,21 +54,21 @@ to comply with environmental and sustainability requirements.
 
 ## 📱 Applications / Demo Projects
 
-- **[Python](https://github.com/LiR-UKR/Python.git)** – A analytics tool (Python,PANDAS, Flask, PostgreSQL) various analytics
-- **[Databases](https://github.com/LiR-UKR/Databases.git)** - Databases
-- **[Containers](https://github.com/LiR-UKR/Containers.git)** - Docker, Docker Compose 
-- **[CL/CI](https://github.com/LiR-UKR/CL_CI.git)** - Continuous Deployment/ CI/CD pipelines / automation of testing and assembly
-- **[JupyterNotebook](https://github.com/LiR-UKR/JupyterNotebook.git)** - JupyterNotebook
+- **[Python](https://github.com/RLisovenko/Python.git)** – A analytics tool (Python,PANDAS, Flask, PostgreSQL) various analytics
+- **[Databases](https://github.com/RLisovenko/Databases.git)** - Databases
+- **[Containers](https://github.com/RLisovenko/Containers.git)** - Docker, Docker Compose 
+- **[CL/CI](https://github.com/RLisovenko/CL_CI.git)** - Continuous Deployment/ CI/CD pipelines / automation of testing and assembly
+- **[JupyterNotebook](https://github.com/RLisovenko/JupyterNotebook.git)** - JupyterNotebook
 
-- **[ORTA,NOMADIC,INSY, IRBIS](https://github.com/LiR-UKR/ORTA.git)** – Desktop application (OVAL, VBA, SQL, C#) for automation of various processes in the enterprise and generate automated reports.  
-- **[MicroCompany](https://github.com/LiR-UKR/MicroCompany.git)** – The visit site with Forum-Portal is currently not supported. -> **[MC](https://www.microcompany.com.ua/MicroCompany.html)** 
+- **[ORTA,NOMADIC,INSY, IRBIS](https://github.com/RLisovenko/ORTA.git)** – Desktop application (OVAL, VBA, SQL, C#) for automation of various processes in the enterprise and generate automated reports.  
+- **[MicroCompany](https://github.com/RLisovenko/MicroCompany.git)** – The visit site with Forum-Portal is currently not supported. -> **[MC](https://www.microcompany.com.ua/MicroCompany.html)** 
 
 ---
 
 ## 📬 Contact
 - Email: *RuslanLisovenko@gmail.com*  
 - LinkedIn: *www.linkedin.com/in/RLisovenko*  
-- GitHub: [LiR-UKR](https://github.com/LiR-UKR)
+- GitHub: [LiR-UKR](https://github.com/RLisovenko)
 - LeetCode: [RL_UKR](https://leetcode.com/u/RL_UKR/))
 
 ⭐ Access to private projects can be granted upon request.
