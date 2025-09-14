@@ -63,8 +63,10 @@ to comply with environmental and sustainability requirements.
 - **[CL/CI](https://github.com/RLisovenko/CL_CI.git)** - Continuous Deployment/ CI/CD pipelines / automation of testing and assembly
 - **[JupyterNotebook](https://github.com/RLisovenko/JupyterNotebook.git)** - JupyterNotebook
 
-- **[ORTA,NOMADIC,INSY, IRBIS](https://github.com/RLisovenko/ORTA.git)** – Desktop application (OVAL, VBA, SQL, C#) for automation of various processes in the enterprise and generate automated reports.  
-- **[MicroCompany](https://github.com/RLisovenko/MicroCompany.git)** – The visit site with Forum-Portal is currently not supported. -> **[MC](https://www.microcompany.com.ua/MicroCompany.html)** 
+## Old Projects
+
+- **[2000-2005](https://github.com/RLisovenko/ORTA.git)** – Desktop application like (ORTA,NOMADIC,INSY, IRBIS) using programming languages(OVAL, VBA, SQL, C#) for automation of various processes in the enterprise and generate automated reports.  
+- **[2005-2022](https://github.com/RLisovenko/MicroCompany.git)** – The MicroCompany website with Forum Portal is currently not supported. -> **[MC](https://www.microcompany.com.ua/MicroCompany.html)** 
 
 ---
 
