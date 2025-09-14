@@ -70,6 +70,9 @@ to comply with environmental and sustainability requirements.
 
 ---
 
+[Used Docs](https://github.com/RLisovenko/LiR_public_portfolio_projects/tree/Doc) - This section contains a list of official documentation and learning resources
+---
+
 ## 📬 Contact
 - Email: *RuslanLisovenko@gmail.com*  
 - LinkedIn: *www.linkedin.com/in/RLisovenko*  
