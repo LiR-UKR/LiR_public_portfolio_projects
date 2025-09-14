@@ -79,5 +79,6 @@ to comply with environmental and sustainability requirements.
 - LinkedIn: *www.linkedin.com/in/RLisovenko*  
 - GitHub: [LiR-UKR](https://github.com/RLisovenko)
 - LeetCode: [RL_UKR](https://leetcode.com/u/RL_UKR/))
+- Resume : [Open Goole resource](https://drive.google.com/drive/folders/1Q1aw5hjbVl-50l49jOZ2L3hWipfNeXa4?usp=drive_link)  - Access on request
 
 ⭐ Access to private projects can be granted upon request.
