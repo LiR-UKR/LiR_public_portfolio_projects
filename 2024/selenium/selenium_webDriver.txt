@@ -1,0 +1,7 @@
+Selenium -> WebDriver -> browser
+
+----------------------Command
+все можно обойти при помощи Java
+driver.execute_script("arguments[0].scrollIntoView()", element_scroll)		-> обойти Java
+
+pip install selenium

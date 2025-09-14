@@ -1,0 +1,24 @@
+----------------------Dagster vs AirFlow_dagit080520241
+1. pip install --upgrade pip
+2. pipx install poetry   внимание в изолированной среде устанавливать, а то будемт прехватіваться управления
+3. pip install 'dagster~=1.7'
+4. py -m pip install path/to/SomeProject
+5. py -m pip install -e C:\Arbeit_Work\Soft\SourceCode\python_source_code\04_2024\dagster_uni_05082024\SomeProject
+path = C:\Arbeit_Work\Soft\SourceCode\python_source_code\04_2024\dagster_uni_05082024\SomeProject
+6. copy pyproject.toml in SomeProject
+7. pip install -e ".[dev]
+8. dagster dev
+9. развернуть облако
+
+
+
+
+
+pip install dagster
+pip install dagit
+
+dagster pipeline execute -f simple.py
+
+-----------------duckDB
+https://duckdb.org/docs/api/python/overview.html
+

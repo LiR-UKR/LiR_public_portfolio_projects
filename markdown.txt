@@ -1,0 +1,44 @@
+https://www.markdownguide.org/cheat-sheet/
+
+https://markdown.de/ - используй правильный markdown
+https://handbook.gitlab.com/docs/markdown-guide/
+
+--------------------------------------Remark
+Чем Markdown отличается от HTML?
+Чем Markdown отличается от HTML? HTML — это стандартизированный язык разметки веб-страниц для просмотра в браузере. 
+Markdown — облегченный язык разметки веб-документа, он использует текстовое форматирование. 
+Markdown выглядит более читабельно, чем HTML, поэтому его используют для упрощения написания контента.
+Markdown-файлы без потерь преобразуются в другие форматы (например, HTML и PDF)
+
+-------------------------install als extension (Ctrl+K V)
+
+https://code.visualstudio.com/docs/languages/markdown
+
+Open vscode editor, then search markdown-preview-enhanced in Extensions , then click Install button. 
+You can also install this extension on VS Code for the Web. 
+Just open VS Code for the web, then search markdown-preview-enhanced in Extensions , then click the Install button.
+
+-----------------------command
+Ctrl+Shift+O 		-> to quickly jump to a header
+Ctrl+T 			-> to search through headers across all Markdown files in the current workspace
+Ctrl+Space 		-> the path of an image or link
+##			-> list of all Markdown headers from the current workspace
+Shift+Alt+Right		-> Expand list "+"
+Shift+Alt+Left		-> Shrink list "-"
+
+---------------------------The cmd key for Windows is ctrl
+
+cmd-k v or ctrl-k v		Open preview to the Side
+cmd-shift-v or ctrl-shift-v	Open preview
+ctrl-shift-s			Sync preview / Sync source
+shift-enter			Run Code Chunk
+ctrl-shift-enter		Run all Code Chunks
+cmd-= or cmd-shift-=		Preview zoom in
+cmd-- or cmd-shift-_		Preview zoom out
+cmd-0				Preview reset zoom
+esc				Toggle sidebar TOC
+
+down Shift	-> to start dropping it into the file
+
+[img](path/to/image.png)
+[text](path/html.md)

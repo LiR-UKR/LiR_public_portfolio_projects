@@ -1,0 +1,27 @@
+НАСТРОЙКА VS CODE + КАСТОМИЗАЦИЯ ПОД PYTHON 2023
+https://www.youtube.com/watch?v=ryosJYNOTjI
+https://www.youtube.com/watch?v=0i4SPuorMEE
+
+	pip install Openpyxl youtube-dl Pillow
+	pip freeze - > выдает список моих установленных пакетов
+	pip freeze > requirements.txt 
+	pip install -r .\requirements.txt - > установка всех пакетов из файла тек проект
+	where python - выдаст все версии пути пайтон
+	указать пусть с какого пайтона -m venv venv --upgrade-deps
+	
+	
+	
+9. виртуальное окружение venv для Python - > собственный независмый набор пакетов Пайтон
+	https://www.youtube.com/watch?v=0i4SPuorMEE
+	9.1. pip list  - список пакетов
+	9.2. Openpyxl   - пакет для Ексель
+	9.3. python -m venv venvDir  - установить venv в тек папаке переменніе окружение в папку venvDir
+	9.4. findet developer MODE
+	9.5. Win + PowerShell= als adm
+	9.6. Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope LocalMachine
+	9.7. Management_Install.ps1  - установить так как не пойинт скрипт 
+	9.8. .\venv\Scripts\activate.bat   - активировать переменные
+	
+	9.9. autoActivate : 
+		9.9.1.VS->File->Preferences-Setting->Settings->workSpace-> enter command ACTIVATE - > ACTIVATE ENV IN CURRENT Terminal
+		9.9.2. Refresch

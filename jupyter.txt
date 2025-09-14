@@ -1,0 +1,15 @@
+-----------------------jupyter.org
+Install JupyterLab with pip:
+
+pip install jupyterlab
+pip install notebook
+
+launch JupyterLab with:
+
+jupyter lab
+
+
+
+
+https://jupyter.org/try-jupyter/lab/?path=notebooks%2FIntro.ipynb
+

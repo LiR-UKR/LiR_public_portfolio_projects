@@ -1,0 +1,106 @@
+mkdir  <myDirName>
+cd <MyDirName>
+echo "Hallo , welt!" > index.html	-> cr called file
+cat index.html						-> run file
+touch <DockerFile>					-> cr Docker File
+ls
+
+-----------------------------------------
+1. gehen in dir 
+2. docker build -t my_container_name .
+3. open DockerDesktop und run und dann result 
+4. 
+---------------------------------------------------
+docker build -t MyName/MyAppNameContainer
+docker build -t myApp .
+
+docker run -p port_Loc:port_container myApp
+docker run -p Port_Local_PC:Port_open_in_Container MyAppNameContainer
+docker run --rm myContainerName			-> потом удаляеся автоматом контейнер
+
+docker ps
+docker ls	-> List image
+docker run --interactive --tty python
+
+
+docker image
+#-----------------------------------------
+
+https://hub.docker.com/r/portainer/templates
+-------------------------------
+docker pull portainer/templates
+
+-------------------------------https://hub.docker.com/r/ckan/postgresql
+docker pull ckan/postgresql *-ckan/postgresql
+
+$ docker run -d -p 8080:80 --name portainer-templates portainer/templates
+
+-------------------------------------------for www.metabase.com
+$ docker run -d -p 8080:80 --name portainer-templates portainer/templates
+
+-------------------------https://hub.docker.com/r/jupiterone/graph-kubernetes
+docker pull jupiterone/graph-kubern
+
+
+-----------------------main command
+docker --version
+dicker inspect selenium/standalone-chrome
+docker build			-> 
+docker pull			-> download img
+
+docker run			-> d tuch for отсоединия от контейнера
+docker 
+docker run
+
+docker image ls			-> list img
+docker image rm			-> del img
+docker image tag <name>-	-> list img
+
+docker stop			-> auto stop
+docker kill			-> sofort stop ohne save
+
+------------------------------------------
+docker bild -t <img_name>:Tag .
+docker bild -t <selemiumApp>:TagTest .		-> смонтируем контейнер
+docker 	ARG	-> argument
+	ENV	-> envirment
+
+	ADD
+	COPY
+	RUN
+
+	CMD	["python3"]		-> run 
+	ENTRYPOINT 		-> run runtime
+
+--------------------------------------publicaton img fur andere Kolegen
+docker login -u <UserName> -p <password>	-> login auf dockerhub
+docker push <image_name:tag>			-> send 
+
+------------------------------------------Run App  via Contaner
+docker run -it	<container_name>		-> ineractive run mit Keyboard
+docker run -it	-v <path\container_name:/Dir_inside_contaner>		-> ineractive run mit Keyboard
+------------------------------подключение контейнеров
+docker logs <container_name>
+docker attach <container_name>
+docker exec -it <container_name> /bin/bash
+
+------------------------------запуск нескольких контейнеров
+docker-compose.yml		-> file um die verschiedene conteiner beschreiben.
+
+docker compose up		-> запускает
+docker compose down		-> останавливает серовисы
+docker compose down -v
+docker compose ps		-> список
+
+---------------------docker swarm init
+docker swarm init			-> create node
+docker service create --name="myservice" --replicas 3 ubuntu:latest
+docker stack deploy --compose-file docker-stack.yml myservice
+---------------------docker instrument
+docker inspect <img_name>
+docker scan <img_name>
+
+
+
+
+

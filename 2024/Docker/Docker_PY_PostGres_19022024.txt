@@ -1,0 +1,19 @@
+FROM python: 3.9-alpine
+WORKDIR /<DirName>
+
+#verboten bufferization
+ENV PYTHONDONTWRITEBYTECODE=1\PYTHONUNBUFFERED=1
+
+#copy cur project
+COPY ..
+
+#install packet
+# --no-cache - > nicht speichen packet
+
+RUN apk add --update --no-cache --virtual .tmp-build-deps \
+	gcc libc-dev linux-headers postgressql-dev && \
+	
+# --no-cache-dir - > nicht speichen PY instalation File
+pip install --no-cache-dir -r requirements.txt
+
+	

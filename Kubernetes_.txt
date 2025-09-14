@@ -1,0 +1,55 @@
+https://www.youtube.com/watch?v=Mw_rEH2pElw
+Helm
+https://www.youtube.com/watch?v=me6-_gmfFPo
+---------------------------------------------
+install
+https://kubernetes.io/releases/download/
+Install kubectl binary with curl on Windows
+curl.exe -LO "https://dl.k8s.io/release/v1.27.4/bin/windows/amd64/kubectl.exe"	 
+------------------------------------------------------------------
+
+https://github.com/ckan/ckan.git
+ckan.plugins = datastore
+pip 
+
+sudo -u postgres creatdb
+
+------------------------------------
+https://kubernetes.io/docs/setup/production-environment/container-runtimes/#systemd-cgroup-driver
+--------------------------------------------------------------
+settings for Kubernetes nodes on Linux:
+
+cat <<EOF | sudo tee /etc/modules-load.d/k8s.conf
+overlay
+br_netfilter
+EOF
+
+sudo modprobe overlay
+sudo modprobe br_netfilter
+
+# sysctl params required by setup, params persist across reboots
+cat <<EOF | sudo tee /etc/sysctl.d/k8s.conf
+net.bridge.bridge-nf-call-iptables  = 1
+net.bridge.bridge-nf-call-ip6tables = 1
+net.ipv4.ip_forward                 = 1
+EOF
+
+# Apply sysctl params without reboot
+sudo sysctl --system
+
+Verify that the br_netfilter, overlay modules are loaded by running the following commands:
+
+lsmod | grep br_netfilter
+lsmod | grep overlay
+
+------------------------------------------------------------
+Docker Engine
+Note: These instructions assume that you are using the cri-dockerd adapter to integrate Docker Engine with Kubernetes.
+
+    On each of your nodes, install Docker for your Linux distribution as per Install Docker Engine.
+
+    Install cri-dockerd, following the instructions in that source code repository.
+
+For cri-dockerd, the CRI socket is /run/cri-dockerd.sock by default.
+-------------------------------------------------------------------
+https://helm.sh/ru/

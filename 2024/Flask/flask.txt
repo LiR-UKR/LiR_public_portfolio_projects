@@ -1,0 +1,29 @@
+1. https://virtualenv.pypa.io/en/latest/
+
+pipx install virtualenv
+virtualenv --help
+
+python -m pip install --user virtualenv
+python -m virtualenv --help
+
+2. 	pip install virtualenv
+	pip install --user virtualenv
+------------------------------
+3. 	pip install virtualenvwrapper
+	# using pip
+		pip install virtualenvwrapper-win
+	# using easy_install
+		easy_install virtualenvwrapper-wi	
+------------------------------
+mkvirtualenv [mkvirtualenv-options] [virtualenv-options] <name>
+mkvirtualenv flask-framework
+
+pip install Flask
+workorn flask-framwork
+lssitepackages
+--------------------------------
+4. pip install flask-wtf
+5. переопеделение перемемнніх окружения - set FLASK_APP=flask_app.py
+6. python run_flask_app.py
+7. pip install flask-wtf - install extensens for arbiet mit Form
+8. $ pip install sentry-sdk[flask] - SDK for Erorr reg

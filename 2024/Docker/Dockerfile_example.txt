@@ -1,0 +1,19 @@
+FROM Python
+run git clone "https://github.com/SeleniumHQ/docker-selenium.git"
+
+ENV CONST_VARIABLE_IN_Container value
+ENV COOL_PORT 8080
+ENV COOL_IP 0.0.0.0
+ENV COOL_LOGS logs
+
+RUN mkdir logs
+RUN mkdir app
+RUN mkdir app/source/pss/
+
+COPY *.py /app/source/pss/
+RUN pip install -r requirements.txt
+
+RUN echo "Running cool web app from docker" > logs\logs.txt
+EXPOSE 8080/tcp
+
+CMD ["python","app/source/pss/nameFile.py"]

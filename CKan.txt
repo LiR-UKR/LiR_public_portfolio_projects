@@ -1,0 +1,3 @@
+https://docs.ckan.org/en/2.10/user-guide.html#what-is-ckan
+
+about ckan wie DataSet machen und vorbienden mit API und DB 
