@@ -64,8 +64,8 @@ to comply with environmental and sustainability requirements.
 - **[JupyterNotebook](https://github.com/RLisovenko/JupyterNotebook.git)** - JupyterNotebook
 
 ## Old Projects
-
-- **[2000-2005](https://github.com/RLisovenko/ORTA.git)** – Desktop application like (ORTA,NOMADIC,INSY, IRBIS) using programming languages(OVAL, VBA, SQL, C#) for automation of various processes in the enterprise and generate automated reports.  
+- **[1998-2000](https://github.com/RLisovenko/old_proects_1998_2000)** – Desktop application EBA.  
+- **[2000-2005](https://github.com/RLisovenko/old_proects_2000_2005)** – Desktop application like (ORTA,NOMADIC,INSY, IRBIS) for automation of various processes in the enterprise and generate automated reports.  
 - **[2005-2022](https://github.com/RLisovenko/MicroCompany.git)** – The MicroCompany website with Forum Portal is currently not supported. -> **[MC](https://www.microcompany.com.ua/MicroCompany.html)** 
 
 ---
