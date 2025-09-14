@@ -1,6 +1,6 @@
 # 📖 Used Documentation
 
-This section contains a list of official documentation and learning resources that I have actively used over the past two years while studying different technologies. Each link refers to the original source of syntax, examples, and best practices.
+This section contains a list of official documentation and learning resources that I have actively used while studying different technologies. Each link refers to the original source of syntax, examples, and best practices.
 
 ---
 
