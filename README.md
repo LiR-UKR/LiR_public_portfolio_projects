@@ -54,7 +54,10 @@ to comply with environmental and sustainability requirements.
 
 ## 📱 Applications / Demo Projects
 
-- **[Python](https://github.com/RLisovenko/Python.git)** – A analytics tool (Python,PANDAS, Flask, PostgreSQL) various analytics
+- **[Python](https://github.com/RLisovenko/Python.git)** - A analytics tool (Python,PANDAS, Flask, PostgreSQL) various analytics
+   - simple-programs 
+   - data and files programs 
+   - advanced-programs
 - **[Databases](https://github.com/RLisovenko/Databases.git)** - Databases
 - **[Containers](https://github.com/RLisovenko/Containers.git)** - Docker, Docker Compose 
 - **[CL/CI](https://github.com/RLisovenko/CL_CI.git)** - Continuous Deployment/ CI/CD pipelines / automation of testing and assembly
