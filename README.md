@@ -80,10 +80,12 @@ to comply with environmental and sustainability requirements.
 ---
 
 ## 📬 Contact
-- Email: *RuslanLisovenko@gmail.com*  
+- Email: *RuslanLisovenko@gmail.com*
+- For reference, I would also like to share a link to my former university professor, a well-known researcher who taught me during my studies:[Prof.Petrenko](https://kpi.ua/petrenko-about)
 - LinkedIn: *www.linkedin.com/in/RLisovenko*  
 - GitHub: [LiR-UKR](https://github.com/RLisovenko)
 - LeetCode: [RL_UKR](https://leetcode.com/u/RL_UKR/))
+  
 - Former account on **SQL.ru** (not supported anymore due to .ru domain zone restrictions)
   
 - Resume : [Open Google resource](https://drive.google.com/drive/folders/1Q1aw5hjbVl-50l49jOZ2L3hWipfNeXa4?usp=drive_link)  - Access on request
