@@ -79,6 +79,14 @@ to comply with environmental and sustainability requirements.
 
 ---
 
+## Educational / Bildung
+   - [Technical University of Ukraine "Igor Sikorsky KPI"](https://kpi.ua/)
+   - [Computer-Aided Design](https://cad.kpi.ua/)
+   - [Technical Diploma in Radio Engineering Systems Design and Management](https://ccte.nau.edu.ua/)
+   - [School](https://www.school217.org.ua/)
+
+---
+
 ## 📬 Contact
 - Email: *RuslanLisovenko@gmail.com*
 - For reference, I would also like to share a link to my former university professor, a well-known researcher who taught me during my studies:[Prof.Petrenko](https://kpi.ua/petrenko-about)
