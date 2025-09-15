@@ -6,6 +6,11 @@ Some repositories are **private**, but I can provide access upon request.
 
 ---
 
+⚠️ This repository is private.  
+   - **If you need access**, please contact me via [E-mail](mailto:RuslanLisovenko@gmail.com) or GitHub issues.
+   - Full code available by request — contact me
+---
+
 ## 🔹 Project Experience
 
 ### EBA (EBENA) – Energy Bridge
